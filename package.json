@@ -1,0 +1,22 @@
+{
+  "name": "game-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthew-charles-chan/game-fetcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthew-charles-chan/game-fetcher/issues"
+  },
+  "homepage": "https://github.com/matthew-charles-chan/game-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
